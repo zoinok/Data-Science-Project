@@ -4,6 +4,6 @@ Inspired by StrataScratch's video on the topic of building a relevant and compre
 
 The **main objectives** are:
 * working with real data
-* working with modern (APIs, Databases in the cloud)
+* working with modern technologies (APIs, Databases in the cloud)
 * building models
 * making an impact/getting validation
